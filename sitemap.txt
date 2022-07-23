@@ -1,3 +1,4 @@
+http://example.com/posts/16809.html
 http://example.com/tags/index.html
 http://example.com/tuku/index.html
 http://example.com/link/index.html
